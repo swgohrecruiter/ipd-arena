@@ -248,6 +248,14 @@
    "userIcon": ":dart:"
  },
  {
+   "name": "Bikelas",
+   "comment": "",
+   "allyCode": 333833838,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+ {
    "name": "Bullet",
    "comment": "",
    "allyCode": 877667496,
@@ -287,6 +295,14 @@
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
  },
+  {
+   "name": "MasterofRuin",
+   "comment": "",
+   "allyCode": 994838273,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
  {
    "name": "Naver",
    "comment": "",
@@ -299,6 +315,14 @@
    "name": "Pinggu",
    "comment": "",
    "allyCode": 877316258,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+ {
+   "name": "Spaceboy",
+   "comment": "",
+   "allyCode": 757335732,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
