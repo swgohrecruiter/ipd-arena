@@ -97,9 +97,9 @@
  },
  {
    "name": "Fotis",
-   "comment": "314363282209112065",
+   "comment": "",
    "allyCode": 329717943,
-   "tagIdOnDrop": "",
+   "tagIdOnDrop": "314363282209112065",
    "tagIdOnClimb": "",
    "userIcon": ""
  },
@@ -187,7 +187,7 @@
    "name": "Silithus",
    "comment": "",
    "allyCode": 479239976,
-   "tagIdOnDrop": "",
+   "tagIdOnDrop": "215759270212272128",
    "tagIdOnClimb": "",
    "userIcon": ""
  },
