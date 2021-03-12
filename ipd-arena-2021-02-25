@@ -240,6 +240,14 @@
    "userIcon": ":dart:"
  },
  {
+   "name": "Афоня",
+   "comment": "",
+   "allyCode": 653791158,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+ {
    "name": "Ammer",
    "comment": "",
    "allyCode": 854871836,
@@ -288,6 +296,14 @@
    "userIcon": ":dart:"
  },
  {
+   "name": "JooMies",
+   "comment": "",
+   "allyCode": 858653653,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+ {
    "name": "Mandoryba RW",
    "comment": "",
    "allyCode": 181982221,
@@ -319,10 +335,26 @@
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
  },
+  {
+   "name": "Psulions84",
+   "comment": "",
+   "allyCode": 174916511,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
  {
    "name": "Spaceboy",
    "comment": "",
    "allyCode": 757335732,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+ {
+   "name": "Spiderkiller",
+   "comment": "",
+   "allyCode": 458433754,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
