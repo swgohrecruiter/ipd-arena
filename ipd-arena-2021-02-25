@@ -168,14 +168,6 @@
    "userIcon": ""
  },
  {
-   "name": "Rax",
-   "comment": "",
-   "allyCode": 839871165,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ""
- },
- {
    "name": "SamGus",
    "comment": "",
    "allyCode": 798494582,
@@ -315,6 +307,14 @@
    "name": "Kev McCarbo",
    "comment": "",
    "allyCode": 484869152,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+  {
+   "name": "Lor' Smartakus",
+   "comment": "",
+   "allyCode": 839871165,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
