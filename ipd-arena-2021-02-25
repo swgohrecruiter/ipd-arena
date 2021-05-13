@@ -31,6 +31,14 @@
    "tagIdOnClimb": "",
    "userIcon": ""
  },
+  {
+   "name": "Bikelas",
+   "comment": "",
+   "allyCode": 333833838,
+   "tagIdOnDrop": "647584022888841233",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
  {
    "name": "Cosis Da",
    "comment": "",
@@ -251,14 +259,6 @@
    "name": "Ammer",
    "comment": "",
    "allyCode": 854871836,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart:"
- },
- {
-   "name": "Bikelas",
-   "comment": "",
-   "allyCode": 333833838,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
