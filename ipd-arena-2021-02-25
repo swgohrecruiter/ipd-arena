@@ -95,6 +95,14 @@
    "tagIdOnClimb": "",
    "userIcon": ""
  },
+  {
+   "name": "EASB' 笑傲江湖",
+   "comment": "",
+   "allyCode": 719799386,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
  {
    "name": "Fidvir",
    "comment": "",
@@ -275,14 +283,6 @@
    "name": "Cesc",
    "comment": "",
    "allyCode": 557487168,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart:"
- },
- {
-   "name": "EASB' 笑傲江湖",
-   "comment": "",
-   "allyCode": 719799386,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
