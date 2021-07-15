@@ -295,6 +295,14 @@
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
  },
+   {
+   "name": "D3stroid",
+   "comment": "",
+   "allyCode": 678146223,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
  {
    "name": "Ikki",
    "comment": "",
@@ -351,10 +359,26 @@
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
  },
+  {
+   "name": "Mikey T",
+   "comment": "",
+   "allyCode": 538319926,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
  {
    "name": "Naver",
    "comment": "",
    "allyCode": 237432743,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+  {
+   "name": "Obism",
+   "comment": "",
+   "allyCode": 891273427,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
