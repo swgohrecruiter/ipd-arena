@@ -127,6 +127,14 @@
    "tagIdOnClimb": "",
    "userIcon": ""
  },
+  {
+   "name": "Ikki",
+   "comment": "",
+   "allyCode": 328566982,
+   "tagIdOnDrop": "851907371688394793",
+   "tagIdOnClimb": "",
+   "userIcon": ""
+ },
  {
    "name": "jcw895",
    "comment": "",
@@ -299,14 +307,6 @@
    "name": "D3stroid",
    "comment": "",
    "allyCode": 678146223,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ":dart:"
- },
- {
-   "name": "Ikki",
-   "comment": "",
-   "allyCode": 328566982,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
