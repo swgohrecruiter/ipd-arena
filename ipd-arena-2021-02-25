@@ -311,6 +311,14 @@
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
  },
+  {
+   "name": "Hisoka Monas",
+   "comment": "",
+   "allyCode": 485149433,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
  {
    "name": "JooMies",
    "comment": "",
@@ -333,7 +341,7 @@
    "allyCode": 946885194,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
-   "userIcon": ":dart::dart::dart:"
+   "userIcon": ":dart:"
  },
   {
    "name": "LNA jclim",
@@ -341,7 +349,7 @@
    "allyCode": 892518281,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
-   "userIcon": ":dart::dart::dart:"
+   "userIcon": ":dart:"
  },
   {
    "name": "Los5cmsdeArchi",
@@ -453,7 +461,7 @@
    "allyCode": 585899319,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
-   "userIcon": ":dart::dart::dart:"
+   "userIcon": ":dart:"
  },
  {
    "name": "William",
