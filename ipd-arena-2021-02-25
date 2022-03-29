@@ -136,14 +136,6 @@
    "userIcon": ""
  },
  {
-   "name": "jcw895",
-   "comment": "",
-   "allyCode": 572569969,
-   "tagIdOnDrop": "",
-   "tagIdOnClimb": "",
-   "userIcon": ""
- },
- {
    "name": "Josema",
    "comment": "",
    "allyCode": 229577213,
@@ -307,6 +299,14 @@
    "name": "D3stroid",
    "comment": "",
    "allyCode": 678146223,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+  {
+   "name": "Enforcer Monarch",
+   "comment": "",
+   "allyCode": 572569969,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
