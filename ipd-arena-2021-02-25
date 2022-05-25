@@ -234,6 +234,14 @@
  {
    "name": "达斯不辣的皮特",
    "comment": "",
+   "allyCode": 653791158,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+  {
+   "name": "Афоня",
+   "comment": "",
    "allyCode": 977265966,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
@@ -352,6 +360,14 @@
    "userIcon": ":dart:"
  },
   {
+   "name": "Melrok",
+   "comment": "",
+   "allyCode": 529597183,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+  {
    "name": "Mikey T",
    "comment": "",
    "allyCode": 538319926,
@@ -387,6 +403,22 @@
    "name": "Psulions84",
    "comment": "",
    "allyCode": 174916511,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+  {
+   "name": "Revan44",
+   "comment": "",
+   "allyCode": 589288658,
+   "tagIdOnDrop": "",
+   "tagIdOnClimb": "",
+   "userIcon": ":dart:"
+ },
+  {
+   "name": "Skankhunt42",
+   "comment": "",
+   "allyCode": 327412762,
    "tagIdOnDrop": "",
    "tagIdOnClimb": "",
    "userIcon": ":dart:"
